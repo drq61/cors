@@ -1,4 +1,4 @@
-module github.com/gin-contrib/cors
+module github.com/wule61/cors
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
