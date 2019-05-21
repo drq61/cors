@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/gin-contrib/cors/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/cors)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gin-contrib/cors)](https://goreportcard.com/report/github.com/gin-contrib/cors)
 [![GoDoc](https://godoc.org/github.com/gin-contrib/cors?status.svg)](https://godoc.org/github.com/gin-contrib/cors)
-[![Join the chat at https://gitter.im/gin-gonic/gin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gin-gonic/gin)
+[![Join the chat at https://gitter.im/wule61/gin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wule61/gin)
 
 Gin middleware/handler to enable CORS support.
 
@@ -33,7 +33,7 @@ import (
 	"time"
 
 	"github.com/gin-contrib/cors"
-	"github.com/gin-gonic/gin"
+	"github.com/wule61/gin"
 )
 
 func main() {

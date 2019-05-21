@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/wule61/gin"
 	"github.com/stretchr/testify/assert"
 )
 

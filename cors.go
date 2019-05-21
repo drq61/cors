@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/wule61/gin"
 )
 
 // Config represents all available options for the middleware.
